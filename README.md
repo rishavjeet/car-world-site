@@ -1,2 +1,2 @@
 # car-world-site
-This is a blogging site for cars
+This is a car data backend server.
